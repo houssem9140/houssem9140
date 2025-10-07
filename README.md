@@ -1,24 +1,91 @@
-<h1 align="center">Hi 👋, I'm Houssem Hannechi</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<!-- START HEADER -->
+<div align="center">
+  <h1>Hi 👋, I'm Houssem Hannechi</h1>
+  <p><em>A passionate Full-Stack Developer from Tunisia</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=houssem9140&label=Profile%20views&color=0e75b6&style=flat" alt="houssem9140" /> </p>
+  <!-- Badges -->
+  <p>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=houssem9140&label=Profile%20views&color=0e75b6&style=flat" />
+    <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=houssem9140&theme=onedark" />
+  </p>
+</div>
+<!-- END HEADER -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssem9140" alt="houssem9140" /></a> </p>
+---
 
-- 💬 Ask me about **reactjs,nodejs,mongodb,express**
+## 👨‍💻 About me
+- I'm a Full-Stack developer who loves building web apps with **React, Node.js, Express** and **MongoDB**.
+- I enjoy working on real projects, learning new technologies, and improving my craft daily.
+- 📫 Reach me at: **houssemhannechi.44@gmail.com**
 
-- 📫 How to reach me **houssemhannechi.44@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/houssem hannechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssem hannechi" height="30" width="40" /></a>
+## 🔭 I'm currently
+- Building/improving personal projects and polishing my portfolio.
+- Learning advanced topics in modern web development (state management, testing, deployment).
+
+---
+
+## 🛠️ Tech & Tools
+<p>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" />&nbsp;
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" height="32" />&nbsp;
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="32" height="32" />&nbsp;
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" height="32" />&nbsp;
+  <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="32" height="32" />&nbsp;
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="32" height="32" />&nbsp;
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" />&nbsp;
+  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" />&nbsp;
+  <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="32" height="32" />&nbsp;
+  <img alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32" height="32" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+You also used / know: Arduino, C, C++, C#, CSS, Bootstrap, Firebase, HTML, Java, MATLAB, PHP, Python, Linux, Oracle.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssem9140&show_icons=true&locale=en&layout=compact" alt="houssem9140" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssem9140&show_icons=true&locale=en" alt="houssem9140" /></p>
+## 📂 Selected Projects
+> Add short descriptions and links to your repositories here. Example format — replace with your repo names & links.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem9140&" alt="houssem9140" /></p>
+- **Project A** — A short 1-line summary. [Repo](https://github.com/houssem9140/project-a)
+- **Project B** — Brief description, tech used (React, Node, MongoDB). [Repo](https://github.com/houssem9140/project-b)
+- **Portfolio** — Portfolio / personal website (link to deployed site). [Live Demo](https://your-site.example)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img alt="Houssem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=houssem9140&show_icons=true&locale=en&theme=default" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssem9140&layout=compact" />
+</p>
+
+<p align="left">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem9140&" />
+</p>
+
+---
+
+## 📫 Connect with me
+<p>
+  <!-- Update the LinkedIn URL if yours is different (remove the space) -->
+  <a href="https://linkedin.com/in/houssem-hannechi" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:houssemhannechi.44@gmail.com">📧 Email</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/houssem9140">GitHub</a>
+</p>
+
+---
+
+## ⭐ Tips to improve this README further
+1. Add 1–2 screenshots or an animated GIF of your best project (helps recruiters immediately see your work).
+2. Add a short “How to run” section for one or two key repos (copy/paste commands).
+3. Pin the 3 repos you're most proud of on your GitHub profile — link them here.
+4. Replace the placeholder project links with the actual repo URLs.
+
+---
+
+<p align="center">Made with ❤️ — feel free to ask me to customize colors, add a GIF, or make a compact/resume-style version.</p>
